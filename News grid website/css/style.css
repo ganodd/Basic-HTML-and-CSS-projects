@@ -230,7 +230,7 @@ p {
 
 #showcase:before {
     content: '';
-    background: url('.img/article/featured.jpg') no-repeat center;
+    background: url('../img/article/featured.jpg') no-repeat center;
     background-size: auto 100%;
     position: absolute;
     top: 0;
